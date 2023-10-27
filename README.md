@@ -1,4 +1,4 @@
-## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/Images/imagen1.bmp)
+## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/Imagen1.bmp)
  ![alt text](https://img.shields.io/badge/Version-2.01-brightgreen)
 ## RNA_workabout
 
