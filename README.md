@@ -9,8 +9,16 @@ Tools for creating Volcano, HeatMap and GO barplots for RNA seq analysis (R lang
 When analyzing data for RNA based gene expression profiling (GEP) the volcano plot illustrates the log[10]-transformed adjusted p-Value against the log-fold change for each probe in the assay, this tool will provide visualization of such results.
 Each point on the graph represents a gene. The log2-fold differences between the groups are plotted on the x-axis and the -log10 p-value differences are plotted on the y-axis. The horizontal dashed line represents the significance threshold specified in the analysis, usually derived using a multiple testing correction.
 
+### Dependencies # 
+
+|---|:---:|:---:|
+library|(ggplot2)
+library|(tidyverse)
+library|(ggrepel)
+library|(ggthemes)
+
 ## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/git_volcano.png)
 
 
 
-### Dependencies # 
+
