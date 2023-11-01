@@ -11,7 +11,7 @@ Each point on the graph represents a gene. The log2-fold differences between the
 
 ### Dependencies # 
 
-|---|:---:|:---:|
+|---|:---:|
 library|(ggplot2)
 library|(tidyverse)
 library|(ggrepel)
