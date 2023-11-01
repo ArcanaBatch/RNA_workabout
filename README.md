@@ -3,9 +3,11 @@
  ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![alt text](https://img.shields.io/badge/Version-1.01-brightgreen)
-## RNA_workabout
+# RNA_workabout
 Tools for creating Volcano, HeatMap and GO barplots for RNA seq analysis (R languaje)
-# Volcano Plot (RNAseq_XFrag)
+## Volcano Plot (RNAseq_XFrag)
+When analyzing data for RNA based gene expression profiling (GEP) the volcano plot illustrates the log[10]-transformed adjusted p-Value against the log-fold change for each probe in the assay, this tool will provide visualization of such results.
+Each point on the graph represents a gene. The log2-fold differences between the groups are plotted on the x-axis and the -log10 p-value differences are plotted on the y-axis. The horizontal dashed line represents the significance threshold specified in the analysis, usually derived using a multiple testing correction.
 
 
 
