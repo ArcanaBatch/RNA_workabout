@@ -11,12 +11,12 @@ Each point on the graph represents a gene. The log2-fold differences between the
 
 ### Dependencies # 
 
-|Library|Needed|
-|:---:|:---:|
-|ggplot2|yes|
-|tidyverse|yes|
-|ggrepel|yes|
-|ggthemes|yes|
+| Library | Needed |
+| :----: | :----: |
+| ggplot2 | yes |
+| tidyverse | yes |
+| ggrepel | yes |
+| ggthemes | yes |
 
 ## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/git_volcano.png)
 
