@@ -18,6 +18,27 @@ Each point on the graph represents a gene. The log2-fold differences between the
 | ggrepel | yes |
 | ggthemes | yes |
 
+### Input # 
+
+| Filler |	Anova (p) |	Log^2 FX/Ctl |	p-Value |
+| :---: | :---: | :---: | :---: |
+| g1 |	0.000673042 |	-3.320167673 |	3.171957834 |
+| g2 |	0.001442404 |	-0.311494014 |	2.840913082 |
+| g3 |	0.001680965 |	-5.133571199 |	2.774441329 |
+| g4 |	0.00309731 |	1.308667426 |	2.509015325 |
+| n | 0.00.... | 0.00... | 0.00... |
+
+
+
+![image](https://github.com/ArcanaBatch/RNA_workabout/assets/33105910/005492bc-ce16-494a-8e50-3be87dd3a9c8)
+
+
+
+### Output # 
+
+
+
+
 ## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/git_volcano.png)
 
 
