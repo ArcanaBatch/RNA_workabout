@@ -29,10 +29,8 @@ Each point on the graph represents a gene. The log2-fold differences between the
 | n | 0.00.... | 0.00... | 0.00... |
 
 
+
 ### Output # 
-
-![image](https://github.com/ArcanaBatch/RNA_workabout/assets/33105910/005492bc-ce16-494a-8e50-3be87dd3a9c8)
-
 
 
 
