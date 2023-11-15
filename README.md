@@ -35,9 +35,6 @@ Each point on the graph represents a gene. The log2-fold differences between the
 
 
 
-
-
-
 ## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/git_volcano.png)
 
 
