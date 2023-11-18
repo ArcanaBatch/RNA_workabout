@@ -20,7 +20,7 @@ Each point on the graph represents a gene. The log2-fold differences between the
 
 ### Input # 
 
-Data for RNA based GEP must be contained in a .CSV file, and must contain at least the columns shown in the example below  
+Data for RNA based GEP must be contained in a .CSV file, and must contain at least the columns shown in the example below the "Filler" column must be populated with the gene names or monickers.
 
 | Filler |	Anova (p) |	Log^2 FX/Ctl |	p-Value |
 | :---: | :---: | :---: | :---: |
