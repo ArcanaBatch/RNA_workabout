@@ -65,3 +65,9 @@ Data must be contained in a .CSV file, and must contain at least the columns sho
 | n | 0.00.... | 0.00... | 0.00... | 0.00... |
 
 
+### Output # 
+
+
+## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/git_volcano.png)
+
+
