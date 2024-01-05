@@ -40,5 +40,9 @@ Data for RNA based GEP must be contained in a .CSV file, and must contain at lea
 ## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/git_volcano.png)
 
 
+## Heat Map (RNAseq_XFrag)
+A heat map is a graphical representation of data that uses color coding to indicate the magnitude of values. Heat maps are commonly used in transcriptomics to visualize gene expression data. By measuring the number of RNA molecules produced by genes in a particular sample, researchers can determine the level of gene expression.
+
+
 
 
