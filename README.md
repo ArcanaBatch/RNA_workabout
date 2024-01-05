@@ -68,6 +68,6 @@ Data must be contained in a .CSV file, and must contain at least the columns sho
 ### Output # 
 
 
-## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/git_volcano.png)
+## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/heat.png)
 
 
