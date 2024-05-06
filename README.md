@@ -92,10 +92,10 @@ Data must be contained in a .CSV file, and must contain at least the columns sho
 
 | ProteinID |	Control1 |	Control2 |	Test1 | n |
 | :---: | :---: | :---: | :---: | :---: | 
-| g1 |	3 |	3 |	0 | 0... |
-| g2 |	33 |	20 |	2 | 0... |
-| g3 |	4 |	5 |	20 | 0.00... |
-| g4 |	2 |	1 |	22 | 0.00... |
+| Q9Y4D8 |	3 |	3 |	0 | 0... |
+| Q9Y4D7 |	33 |	20 |	2 | 0... |
+| K7ES02 |	4 |	5 |	20 | 0.00... |
+| Q96CG8 |	2 |	1 |	22 | 0.00... |
 | n | 0.... | 0... | 0... | 0... |
 
 
