@@ -41,7 +41,7 @@ ggplot(data=proteomica,
   geom_hline(yintercept = 1.3, lty = 2, col= "red", lwd= .5)+
   geom_label_repel(force= 5, max.overlaps = Inf, show.legend = FALSE)+
   
-  scale_color_manual(values = c("#58003d","lightgreen","orange")) +
+  scale_color_manual(values = c("purple","lightgreen","orange")) +
   
   geom_vline(xintercept = c(-1,1), lty = 2, col= "black", lwd = .4)+
   
