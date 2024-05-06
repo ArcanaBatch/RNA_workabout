@@ -6,7 +6,7 @@
 #produced by genes in a particular sample, researchers can determine the level 
 #of gene expression.
 
-#Author: Mauricio Flores Valdez
+#Authors: Flores Valdez M & Padilla Mendoza JR
 
 #Version: 17-11-2023
 
