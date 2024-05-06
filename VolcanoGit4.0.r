@@ -9,7 +9,7 @@
 #line represents the significance threshold specified in the analysis, usually
 #derived using a multiple testing correction.
 
-#Author: Mauricio Flores Valdez
+#Authors: Flores Valdez M & Padilla Mendoza JR
 
 #Version: 17-11-2023
 
