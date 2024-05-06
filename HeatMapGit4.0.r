@@ -33,7 +33,7 @@ pheatmap(example_data,
          scale = "none",
          show_rownames = FALSE, 
          show_colnames = TRUE,
-         color = colorRampPalette(c("#58003d", "lightgreen", "orange"))(30))
+         color = colorRampPalette(c("purple", "orange"))(30))
 
 
 counts_normalised_only_diff_genes <- example_data
@@ -55,7 +55,7 @@ pheatmap(counts_scaled,
   scale="none",
   # already done "manually"
   show_colnames=TRUE,
-  color = colorRampPalette(c("#58003d", "lightgreen", "orange"))(30))
+  color = colorRampPalette(c("purple", "orange"))(30))
 
 
 pheatmap(counts_scaled,
@@ -64,7 +64,7 @@ pheatmap(counts_scaled,
   show_rownames=FALSE,
   show_colnames=TRUE,
   main="Clustering on",
-  color = colorRampPalette(c("#58003d", "lightgreen", "orange"))(30))
+  color = colorRampPalette(c("purple", "orange"))(30))
 
 
 
