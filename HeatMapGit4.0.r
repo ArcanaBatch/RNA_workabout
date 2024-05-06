@@ -77,5 +77,5 @@ pheatmap(example_data,
          show_colnames = TRUE,
          cellwidth= 70.0,
          cellheight= 8.5,
-         color = colorRampPalette(c("#58003d", "lightgreen", "orange"))(30))
+         color = colorRampPalette(c("purple", "orange"))(30))
 
