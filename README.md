@@ -1,4 +1,5 @@
-## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/Imagen1.bmp)
+## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/Images/Imagen1.bmp)
+
 
  ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -37,7 +38,7 @@ Data for RNA based GEP must be contained in a .CSV file, and must contain at lea
 
 
 
-## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/git_volcano.png)
+## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/Images/volcano.png)
 
 
 ## Heat Map (RNAseq)
@@ -68,7 +69,7 @@ Data must be contained in a .CSV file, and must contain at least the columns sho
 ### Output # 
 
 
-## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/heat.png)
+## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/Images/heat.png)
 
 
 
@@ -101,7 +102,7 @@ Data must be contained in a .CSV file, and must contain at least the columns sho
 ### Output # 
 
 
-## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/heat.png)
+## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/Images/GOplot.png)
 
 
 
