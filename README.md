@@ -54,7 +54,8 @@ A heat map is a graphical representation of data that uses color coding to indic
 
 ### Input # 
 
-Data must be contained in a .CSV file, and must contain at least the columns shown in the example below the "Filler" column must be populated with the gene names or monickers.
+Data must be contained in a .CSV file, and must contain at least the columns shown in the example below the "Gene" column must be populated with the gene names or monickers.
+different clustering options may be produced according to necessity.
 
 | Gene |	Sample1 |	Control1 |	Sample2 | n |
 | :---: | :---: | :---: | :---: | :---: | 
@@ -69,5 +70,7 @@ Data must be contained in a .CSV file, and must contain at least the columns sho
 
 
 ## ![alt text](https://github.com/ArcanaBatch/RNA_workabout/blob/main/heat.png)
+
+
 
 
