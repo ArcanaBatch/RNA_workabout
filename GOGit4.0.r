@@ -4,7 +4,7 @@
 #gene products and GO terms, which are used to capture the existing knowledge 
 #about what each gene is known to do.
 
-#Author: Mauricio Flores Valdez
+#Authors: Flores Valdez M & Padilla Mendoza JR
 
 #Version: 22-11-2023
 
